@@ -133,7 +133,7 @@ ul {
     background: #fff;
 }
 .menu_section {
-    background: url(/dic_cafe2/images/web_html_grammer-master/web_html_grammer-master/sample_menu_bg.jpg) no-repeat bottom;
+    background: url("/dic_cafe2/images/web_html_grammer-master/web_html_grammer-master/sample_menu_bg.jpg") no-repeat bottom;
     background-size: 100%;
     background-attachment: fixed;
 }
@@ -162,6 +162,7 @@ ul {
 .coffee_menu {
         padding: 20px;
         background: #fff;
+        margin: 20px;
     }
 
 img {
